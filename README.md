@@ -35,7 +35,7 @@ EnglishCard - это образовательный Telegram-бот, котор�
 
 ### Структура проекта
 ```
-EnglishCard-Telegram-Bot/
+englishcard-bot/
 ├── main.py                 # Точка входа приложения
 ├── config.py               # Настройки и конфигурация
 ├── requirements.txt        # Зависимости Python
@@ -198,6 +198,14 @@ user_words (
 ## 👀 Пример работы
 1. Выполненная работа https://t.me/english_learn_123465_bot
 2. Скриншот
+<div align="center">
+  <img src="https://github.com/KaralashAnka/EnglishCard-Telegram-Bot/blob/main/1.jpg" width="400" alt="Дизайн бота с телефона"/>
+  <p>Дизайн бота с телефона</p>
+</div>
+<div align="center">
+  <img src="https://github.com/KaralashAnka/EnglishCard-Telegram-Bot/blob/main/2.jpg" width="400" alt="Дизайн бота с компьютера"/>
+  <p>Дизайн бота с компьютера</p>
+</div>
 
 ---
 
