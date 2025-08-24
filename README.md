@@ -206,6 +206,11 @@ user_words (
   <img src="https://github.com/KaralashAnka/EnglishCard-Telegram-Bot/blob/main/2.jpg" width="400" alt="Дизайн бота с компьютера"/>
   <p>Дизайн бота с компьютера</p>
 </div>
+3. Полученная схема 
+<div align="center">
+  <img src="https://github.com/KaralashAnka/EnglishCard-Telegram-Bot/blob/main/db_schema.PNG" width="400" alt="Полученная схема"/>
+  <p> </p>
+</div>
 
 ---
 
